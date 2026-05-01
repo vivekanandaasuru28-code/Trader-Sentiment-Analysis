@@ -7,7 +7,7 @@ Fear → Investors are cautious or panic-driven
 Greed → Investors are optimistic and risk-taking
 Helps understand how emotions influence trading outcomes
 
-<h>**About Trading Participants**</h>
+**About Trading Participants**:
 
 This study analyzes real trader behavior from historical trading data:
 
@@ -16,7 +16,7 @@ Buy/Sell actions (Long/Short)
 Trade sizes and profits/losses (PnL)
 Goal: Understand how traders react under different market sentiments
 
-#Objective
+**Objective**:
 
 To analyze how market sentiment (Fear vs Greed) affects:
 
@@ -25,7 +25,7 @@ Trading behavior (risk-taking, trade size)
 
 And to derive actionable strategies for better decision-making.
 
-#Approach
+**Approach**:
 1. Data Preparation
 Cleaned datasets and handled missing values
 Converted timestamps and aligned data by date
@@ -39,14 +39,14 @@ Compared performance across sentiment categories
 Studied changes in trade size and behavior
 Identified patterns in trader decisions
 
-#Key Findings
+**Key Findings**:
 
 Extreme Greed periods show highest profitability and win rates
 Traders take larger positions during Fear periods
 Higher risk during Fear does not lead to better returns
 Trading behavior is strongly influenced by market sentiment (emotional bias)
 
-#Strategy Recommendations
+**Strategy Recommendations**:
 
 Reduce trade size during Fear periods to control risk
 Increase participation during Greed periods to leverage market momentum
