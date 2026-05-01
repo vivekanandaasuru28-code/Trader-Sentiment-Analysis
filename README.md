@@ -53,7 +53,7 @@ Increase participation during Greed periods to leverage market momentum
 Apply sentiment-based position sizing for better risk-reward balance
 
 
-🏁 Conclusion
+🏁 Conclusion:
 Market sentiment plays a crucial role in shaping trader behavior and performance.
 Incorporating sentiment signals into trading strategies can significantly improve:
 
