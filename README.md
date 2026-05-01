@@ -1,4 +1,4 @@
-# Trader-Sentiment-Analysis
+# Bitcoin Market Sentiment
 Market Sentiment
 
 Analysis is based on the Fear & Greed Index, which reflects overall market psychology:
