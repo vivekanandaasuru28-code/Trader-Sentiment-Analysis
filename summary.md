@@ -1,8 +1,8 @@
-# 📄 Trader Sentiment Analysis — Summary
+# Trader Sentiment Analysis — Summary
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 The analysis was conducted by integrating two datasets: market sentiment (Fear/Greed Index) and historical trader activity.
 Data was cleaned, timestamps were standardized, and both datasets were merged at a daily level.
@@ -16,7 +16,7 @@ Key steps:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Higher Profitability During Greed**
    Traders achieve the highest average PnL and win rates during Extreme Greed periods, indicating favorable market conditions and strong momentum.
@@ -29,7 +29,7 @@ Key steps:
 
 ---
 
-## 💡 Strategy Recommendations
+## Strategy Recommendations
 
 * **Reduce Position Size in Fear**
   Limit exposure during Fear periods to manage downside risk.
