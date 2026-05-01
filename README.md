@@ -7,7 +7,7 @@ Fear → Investors are cautious or panic-driven
 Greed → Investors are optimistic and risk-taking
 Helps understand how emotions influence trading outcomes
 
-<h>About Trading Participants</h>
+<h>**About Trading Participants**</h>
 
 This study analyzes real trader behavior from historical trading data:
 
